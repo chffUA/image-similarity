@@ -12,7 +12,7 @@ Returns a double value that represents the difference between the images.
 
 This value is 0 when the images are equal, and has no upper cap.
 
-- ```compareThreshold(BufferedImage, BufferedImage, double)``` / ```compare(File, File, double)```
+- ```compareThreshold(BufferedImage, BufferedImage, double)``` / ```compareThreshold(File, File, double)```
 
 Returns true if the difference between images is less than the threshold.
 
